@@ -10,13 +10,9 @@ A modern  landing page that promotes a structured approach to note-taking and kn
 
 📚 Structured sections (Hero, Features, Solution, CTA, Footer)
 
-🎯 Clear call-to-action buttons
-
 🎨 Beautiful card-based layout
 
 🌐 Navigation menu with smooth design
-
-💡 Responsive-friendly structure
 
 🔥 Hover effects on buttons
 
