@@ -1,6 +1,6 @@
 Overview-
 
-A modern and responsive landing page that promotes a structured approach to note-taking and knowledge management. This project focuses on helping users build a “second brain” by organizing scattered information into meaningful connections.
+A modern  landing page that promotes a structured approach to note-taking and knowledge management. 
 
 --
 
