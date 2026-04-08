@@ -1,11 +1,4 @@
-📌 Repository Description 
-
-A modern and responsive landing page for understanding core concept 
-
-🔗 Live Demo: https://habibur-rahman-sunny.github.io/1st-Assignment/
-🛠 Tech Stack: HTML, CSS, Google Fonts, Font Awesome
-
-
+Overview-
 
 A modern and responsive landing page that promotes a structured approach to note-taking and knowledge management. This project focuses on helping users build a “second brain” by organizing scattered information into meaningful connections.
 
@@ -35,9 +28,6 @@ HTML5
 
 CSS3
 
-Google Fonts
-
-Font Awesome
 
 --
 
